@@ -6,27 +6,27 @@ info:
     url: "http://www.apache.org/licenses/LICENSE-2.0"
 basePath: "/"
 tags:
-- name: "Koji repairVolume operation"
-- name: "Diagnostics"
-- name: "SetBack Backup settings.xml Access"
-- name: "Indy Repository Replication"
-- name: "Maintenance"
-- name: "Hosted by archive"
-- name: "Generic Infrastructure Queries (UI Support)"
 - name: "Maven Content Access and Storage"
-- name: "Security Infrastructure"
-- name: "Schedules and Expirations"
-- name: "AutoProx Catalog Management"
-- name: "Indy Directory Content Browse"
-- name: "FOLO Tracking Record Access"
-- name: "DEPRECATED: Content Access and Storage"
-- name: "Content Promotion"
-- name: "NPM Content Access and Storage"
+- name: "Generic Infrastructure Queries (UI Support)"
+- name: "Data-Directory Revisions"
+- name: "Hosted by archive"
+- name: "Diagnostics"
 - name: "Store Administration"
 - name: "FOLO Tracked Content Access and Storage"
+- name: "Schedules and Expirations"
+- name: "SetBack Backup settings.xml Access"
+- name: "NPM Content Access and Storage"
+- name: "DEPRECATED: Content Access and Storage"
+- name: "FOLO Tracking Record Access"
+- name: "Koji repairVolume operation"
 - name: "AutoProx Calculator"
+- name: "Content Promotion"
+- name: "Security Infrastructure"
+- name: "Indy Directory Content Browse"
+- name: "AutoProx Catalog Management"
+- name: "Maintenance"
+- name: "Indy Repository Replication"
 - name: "Not-Found Cache"
-- name: "Data-Directory Revisions"
 paths:
   /api/admin/maint/content/all{path}:
     delete:
@@ -2967,6 +2967,14 @@ definitions:
       changed:
         type: "boolean"
         default: false
+  List of artifact store definitions:
+    type: "object"
+    required:
+    - "items"
+    properties:
+      items:
+        description: "The store definition list"
+        $ref: "#/definitions/ArtifactStore"
   StackTraceElement:
     type: "object"
     properties:
@@ -2982,14 +2990,8 @@ definitions:
       nativeMethod:
         type: "boolean"
         default: false
-  List of artifact store definitions:
+  StreamingOutput:
     type: "object"
-    required:
-    - "items"
-    properties:
-      items:
-        description: "The store definition list"
-        $ref: "#/definitions/ArtifactStore"
   RemoteRepository:
     allOf:
     - $ref: "#/definitions/ArtifactStore"
@@ -3070,8 +3072,6 @@ definitions:
           type: "string"
       description: "Proxy to a remote server's artifact content, with local cache\
         \ storage."
-  StreamingOutput:
-    type: "object"
   CallbackTarget:
     type: "object"
     properties:
@@ -3362,6 +3362,11 @@ definitions:
         type: "array"
         items:
           $ref: "#/definitions/Throwable"
+  TrackingKey:
+    type: "object"
+    properties:
+      id:
+        type: "string"
   RepairResult:
     type: "object"
     properties:
@@ -3379,11 +3384,6 @@ definitions:
       changed:
         type: "boolean"
         default: false
-  TrackingKey:
-    type: "object"
-    properties:
-      id:
-        type: "string"
   ReplicationDTO:
     type: "object"
     required:
