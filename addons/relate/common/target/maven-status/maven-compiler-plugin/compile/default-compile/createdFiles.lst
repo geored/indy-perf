@@ -1,5 +1,0 @@
-org/commonjava/indy/relate/util/RelateGenerationManager.class
-org/commonjava/indy/relate/RelateAddOn.class
-org/commonjava/indy/relate/content/RelateContentGenerator.class
-org/commonjava/indy/relate/conf/RelateConfig.class
-org/commonjava/indy/relate/change/RelatePomStorageListener.class

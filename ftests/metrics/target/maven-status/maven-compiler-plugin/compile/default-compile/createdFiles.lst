@@ -1,6 +1,0 @@
-org/commonjava/indy/ftest/metrics/ZabbixCacheStorageTest.class
-org/commonjava/indy/ftest/metrics/client/IndyMetricsFtestClientModule.class
-org/commonjava/indy/ftest/metrics/IndyMetricsTest.class
-org/commonjava/indy/ftest/metrics/jaxrs/ZabbixCacheStorageResource.class
-org/commonjava/indy/ftest/metrics/client/ZabbixCacheStorageTestClientModule.class
-org/commonjava/indy/ftest/metrics/jaxrs/MetricsTestResource.class

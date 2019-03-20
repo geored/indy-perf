@@ -1,8 +1,0 @@
-org/commonjava/indy/relate/ftest/PomDownloadDepFromParentTest.class
-org/commonjava/indy/relate/ftest/RelDownloadBeforePomTest.class
-org/commonjava/indy/relate/ftest/PomDownloadViaGroupListenerTest.class
-org/commonjava/indy/relate/ftest/PomDownloadSimpleDepTest.class
-org/commonjava/indy/relate/ftest/AbstractRelateFunctionalTest.class
-org/commonjava/indy/relate/ftest/RelDownloadPomNotFound404Test.class
-org/commonjava/indy/relate/ftest/PomUploadListenerTest.class
-org/commonjava/indy/relate/ftest/PomDownloadListenerTest.class

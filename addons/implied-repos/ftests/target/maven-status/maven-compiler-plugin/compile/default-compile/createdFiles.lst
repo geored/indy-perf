@@ -1,9 +1,0 @@
-org/commonjava/indy/implrepo/skim/AbstractSkimFunctionalTest.class
-org/commonjava/indy/implrepo/skim/ResolveDepViaSkimmedRepoInGroupTest.class
-org/commonjava/indy/implrepo/skim/DisabledGroupNotAddingImpliedTest.class
-org/commonjava/indy/implrepo/maint/AbstractMaintFunctionalTest.class
-org/commonjava/indy/implrepo/skim/PomWithPluginRepoAddsRepoToGroupTest.class
-org/commonjava/indy/implrepo/skim/AbstractSkimFunctionalTest$PomRef.class
-org/commonjava/indy/implrepo/skim/EnabledGroupAddingImpliedTest.class
-org/commonjava/indy/implrepo/skim/PomWithRepoAddsRepoToGroupTest.class
-org/commonjava/indy/implrepo/maint/CreateGroupWithMemberImplicationsTest.class

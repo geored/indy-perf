@@ -1,8 +1,0 @@
-org/commonjava/indy/promote/model/ValidationRuleSetTest.class
-org/commonjava/indy/promote/model/ValidationRuleDTOTest.class
-org/commonjava/indy/promote/model/GroupPromoteResultTest.class
-org/commonjava/indy/promote/model/GroupPromoteRequestTest.class
-org/commonjava/indy/promote/model/ValidationCatalogDTOTest.class
-org/commonjava/indy/promote/model/ValidationResultTest.class
-org/commonjava/indy/promote/model/PathsPromoteResultTest.class
-org/commonjava/indy/promote/model/PathsPromoteRequestTest.class

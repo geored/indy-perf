@@ -1,6 +1,0 @@
-org/commonjava/indy/pkg/npm/data/NPMSpecialPathProducer$NPMSpecialPathSet.class
-org/commonjava/indy/pkg/npm/content/group/PackageMetadataMerger.class
-org/commonjava/indy/pkg/npm/data/NPMSpecialPathProducer.class
-org/commonjava/indy/pkg/npm/inject/NPMContentHandler.class
-org/commonjava/indy/pkg/npm/content/group/PackageMetadataProvider.class
-org/commonjava/indy/pkg/npm/content/PackageMetadataGenerator.class

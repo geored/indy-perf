@@ -1,9 +1,0 @@
-org/commonjava/indy/ftest/core/fixture/ThreadDumper$1.class
-org/commonjava/indy/ftest/core/category/BytemanTest.class
-org/commonjava/indy/ftest/core/AbstractIndyFunctionalTest$1.class
-org/commonjava/indy/ftest/core/fixture/IDETestProvider.class
-org/commonjava/indy/ftest/core/fixture/ThreadDumper.class
-org/commonjava/indy/ftest/core/category/TimingDependent.class
-org/commonjava/indy/ftest/core/category/EventDependent.class
-org/commonjava/indy/ftest/core/AbstractIndyFunctionalTest.class
-org/commonjava/indy/ftest/core/AbstractContentManagementTest.class

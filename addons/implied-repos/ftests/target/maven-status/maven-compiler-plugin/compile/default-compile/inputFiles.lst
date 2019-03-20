@@ -1,8 +1,0 @@
-/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/implied-repos/ftests/src/main/java/org/commonjava/indy/implrepo/skim/PomWithPluginRepoAddsRepoToGroupTest.java
-/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/implied-repos/ftests/src/main/java/org/commonjava/indy/implrepo/maint/CreateGroupWithMemberImplicationsTest.java
-/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/implied-repos/ftests/src/main/java/org/commonjava/indy/implrepo/skim/EnabledGroupAddingImpliedTest.java
-/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/implied-repos/ftests/src/main/java/org/commonjava/indy/implrepo/skim/AbstractSkimFunctionalTest.java
-/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/implied-repos/ftests/src/main/java/org/commonjava/indy/implrepo/skim/DisabledGroupNotAddingImpliedTest.java
-/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/implied-repos/ftests/src/main/java/org/commonjava/indy/implrepo/maint/AbstractMaintFunctionalTest.java
-/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/implied-repos/ftests/src/main/java/org/commonjava/indy/implrepo/skim/PomWithRepoAddsRepoToGroupTest.java
-/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/implied-repos/ftests/src/main/java/org/commonjava/indy/implrepo/skim/ResolveDepViaSkimmedRepoInGroupTest.java

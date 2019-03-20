@@ -1,6 +1,0 @@
-org/commonjava/indy/subsys/git/GitConfig.class
-org/commonjava/indy/subsys/git/GitManager$GitFunction.class
-org/commonjava/indy/subsys/git/ChangelogEntry.class
-org/commonjava/indy/subsys/git/GitManager.class
-org/commonjava/indy/subsys/git/GitSubsystemException.class
-org/commonjava/indy/subsys/git/ConflictStrategy.class

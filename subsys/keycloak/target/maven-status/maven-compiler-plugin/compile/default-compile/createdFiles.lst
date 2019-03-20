@@ -1,7 +1,0 @@
-org/commonjava/indy/subsys/keycloak/SecurityConstraintProvider.class
-org/commonjava/indy/subsys/keycloak/conf/KeycloakSecurityBindings.class
-org/commonjava/indy/subsys/keycloak/util/KeycloakBearerTokenDebug.class
-org/commonjava/indy/subsys/keycloak/conf/KeycloakSecurityConstraint.class
-org/commonjava/indy/subsys/keycloak/rest/SecurityController.class
-org/commonjava/indy/subsys/keycloak/KeycloakAuthenticator.class
-org/commonjava/indy/subsys/keycloak/conf/KeycloakConfig.class
