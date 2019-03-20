@@ -1,0 +1,13 @@
+org/commonjava/indy/pkg/npm/model/PackageMetadata.class
+org/commonjava/indy/pkg/npm/model/UserInfo.class
+org/commonjava/indy/pkg/npm/model/VersionMetadata.class
+org/commonjava/indy/pkg/npm/model/NpmOperationalInternal.class
+org/commonjava/indy/pkg/npm/model/NpmJsonOpts.class
+org/commonjava/indy/pkg/npm/model/Dist.class
+org/commonjava/indy/pkg/npm/model/Engines.class
+org/commonjava/indy/pkg/npm/model/DistTag.class
+org/commonjava/indy/pkg/npm/model/Commitplease.class
+org/commonjava/indy/pkg/npm/model/Repository.class
+org/commonjava/indy/pkg/npm/model/Bugs.class
+org/commonjava/indy/pkg/npm/model/Directories.class
+org/commonjava/indy/pkg/npm/model/License.class

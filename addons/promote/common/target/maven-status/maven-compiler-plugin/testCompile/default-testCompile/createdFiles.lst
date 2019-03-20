@@ -1,0 +1,5 @@
+org/commonjava/indy/promote/validate/PromoteValidationsManagerTest.class
+org/commonjava/indy/promote/validate/ValidationRuleParserTest.class
+org/commonjava/indy/promote/fixture/GalleyFixture.class
+org/commonjava/indy/promote/data/PromotionManagerTest.class
+org/commonjava/indy/promote/conf/PromoteConfigTest.class

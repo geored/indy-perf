@@ -1,0 +1,4 @@
+org/commonjava/indy/implrepo/change/ImpliedRepositoryDetectorTest.class
+org/commonjava/indy/implrepo/conf/ImpliedRepoConfigTest.class
+org/commonjava/indy/implrepo/change/ImpliedRepoMaintainerTest.class
+org/commonjava/indy/implrepo/change/ImpliedRepositoryDetectorTest$TestImpliedRepositoryDetector.class

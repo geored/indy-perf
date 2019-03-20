@@ -1,0 +1,14 @@
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/core/src/test/java/org/commonjava/indy/core/expire/ContentExpirationTest.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/core/src/test/java/org/commonjava/indy/core/ctl/ContentControllerTest.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/core/src/test/java/org/commonjava/indy/fixture/ProxyConfigProvider.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/core/src/test/java/org/commonjava/indy/core/inject/ExpiringMemoryNotFoundCacheTest.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/core/src/test/java/org/commonjava/indy/core/conf/DefaultIndyConfigFactoryTest.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/core/src/test/java/org/commonjava/indy/fixture/MockContentAdvisor.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/core/src/test/java/org/commonjava/indy/fixture/MockWeftProvider.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/core/src/test/java/org/commonjava/indy/rest/util/DownloadManagerTest.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/core/src/test/java/org/commonjava/indy/core/content/DefaultContentManagerTest.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/core/src/test/java/org/commonjava/indy/core/content/DefaultDownloadManagerTest.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/core/src/test/java/org/commonjava/indy/fixture/GalleyFixture.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/core/src/test/java/org/commonjava/indy/fixture/MockGalleyProvider.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/core/src/test/java/org/commonjava/indy/core/expire/LegacyQuartzDBMigrationActionTest.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/core/src/test/java/org/commonjava/indy/core/expire/ScheduleManagerTest.java

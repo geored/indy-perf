@@ -1,0 +1,3 @@
+org/commonjava/indy/subsys/kafka/conf/KafkaConfig.class
+org/commonjava/indy/subsys/kafka/util/LogbackFormatter.class
+org/commonjava/indy/subsys/kafka/IndyKafkaProducer.class

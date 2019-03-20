@@ -1,0 +1,7 @@
+org/commonjava/indy/test/fixture/core/MockGalleyProvider.class
+org/commonjava/indy/test/fixture/core/MockWeftProvider.class
+org/commonjava/indy/test/fixture/core/CoreServerFixture.class
+org/commonjava/indy/test/fixture/core/MockInstance.class
+org/commonjava/indy/test/fixture/core/MockContentAdvisor.class
+org/commonjava/indy/test/fixture/core/MockGalleyProvider$1.class
+org/commonjava/indy/test/fixture/core/HttpTestFixture.class

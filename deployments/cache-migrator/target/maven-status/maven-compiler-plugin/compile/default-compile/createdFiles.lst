@@ -1,0 +1,4 @@
+org/commonjava/indy/tools/cache/MigrationCommand.class
+org/commonjava/indy/tools/cache/Main.class
+org/commonjava/indy/tools/cache/MigrationOptions.class
+org/commonjava/indy/tools/cache/SimpleCacheProducer.class

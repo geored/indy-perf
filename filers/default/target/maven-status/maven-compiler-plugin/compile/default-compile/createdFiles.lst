@@ -1,0 +1,7 @@
+org/commonjava/indy/filer/def/FastLocalCacheProducer.class
+org/commonjava/indy/filer/def/CacheInstanceAdapter.class
+org/commonjava/indy/filer/def/conf/DefaultStorageProviderConfiguration.class
+org/commonjava/indy/filer/def/migrate/PackageTypedStorageMigrationAction.class
+org/commonjava/indy/filer/def/NFSOwnerCache.class
+org/commonjava/indy/filer/def/FastLocalFileRemoveCache.class
+org/commonjava/indy/filer/def/DefaultGalleyStorageProvider.class

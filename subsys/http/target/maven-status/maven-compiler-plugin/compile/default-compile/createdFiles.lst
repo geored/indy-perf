@@ -1,0 +1,10 @@
+org/commonjava/indy/subsys/http/conf/IndyHttpConfig.class
+org/commonjava/indy/subsys/http/util/HttpResources$HttpResourcesManagingInputStream.class
+org/commonjava/indy/subsys/http/IndyHttpProvider.class
+org/commonjava/indy/subsys/http/IndyHttpException.class
+org/commonjava/indy/subsys/http/util/IndySiteConfigLookup.class
+org/commonjava/indy/subsys/http/IndyHttpConnectionManager.class
+org/commonjava/indy/subsys/http/util/HttpFactoryPasswordDelegate.class
+org/commonjava/indy/subsys/http/util/UserPass.class
+org/commonjava/indy/subsys/http/HttpWrapper.class
+org/commonjava/indy/subsys/http/util/HttpResources.class

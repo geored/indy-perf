@@ -1,0 +1,5 @@
+org/commonjava/indy/hostedbyarc/ftests/HostedByArcWithIgnoreRootUploadTest.class
+org/commonjava/indy/hostedbyarc/ftests/HostedByArcConflictTest.class
+org/commonjava/indy/hostedbyarc/ftests/AbstractHostedByArcTest.class
+org/commonjava/indy/hostedbyarc/ftests/HostedByArcDisableTest.class
+org/commonjava/indy/hostedbyarc/ftests/HostedByArcWithoutIgnoreRootUploadTest.class

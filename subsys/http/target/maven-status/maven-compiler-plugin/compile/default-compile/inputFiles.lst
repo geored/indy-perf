@@ -1,0 +1,9 @@
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/subsys/http/src/main/java/org/commonjava/indy/subsys/http/IndyHttpProvider.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/subsys/http/src/main/java/org/commonjava/indy/subsys/http/IndyHttpException.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/subsys/http/src/main/java/org/commonjava/indy/subsys/http/util/HttpResources.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/subsys/http/src/main/java/org/commonjava/indy/subsys/http/util/IndySiteConfigLookup.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/subsys/http/src/main/java/org/commonjava/indy/subsys/http/util/HttpFactoryPasswordDelegate.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/subsys/http/src/main/java/org/commonjava/indy/subsys/http/conf/IndyHttpConfig.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/subsys/http/src/main/java/org/commonjava/indy/subsys/http/HttpWrapper.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/subsys/http/src/main/java/org/commonjava/indy/subsys/http/IndyHttpConnectionManager.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/subsys/http/src/main/java/org/commonjava/indy/subsys/http/util/UserPass.java

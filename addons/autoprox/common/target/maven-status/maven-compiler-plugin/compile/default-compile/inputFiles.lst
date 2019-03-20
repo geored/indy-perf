@@ -1,0 +1,13 @@
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/autoprox/common/src/main/java/org/commonjava/indy/autoprox/data/RuleMapping.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/autoprox/common/src/main/java/org/commonjava/indy/autoprox/data/AutoProxRule.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/autoprox/common/src/main/java/org/commonjava/indy/autoprox/data/AutoProxDataManagerDecorator.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/autoprox/common/src/main/java/org/commonjava/indy/autoprox/data/AbstractAutoProxRule.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/autoprox/common/src/main/java/org/commonjava/indy/autoprox/rest/AutoProxCalculatorController.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/autoprox/common/src/main/java/org/commonjava/indy/autoprox/conf/AutoProxConfig.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/autoprox/common/src/main/java/org/commonjava/indy/autoprox/rest/AutoProxAdminController.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/autoprox/common/src/main/java/org/commonjava/indy/autoprox/data/AutoProxCatalogManager.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/autoprox/common/src/main/java/org/commonjava/indy/autoprox/data/AutoProxRuleException.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/autoprox/common/src/main/java/org/commonjava/indy/autoprox/data/AutoProxConstants.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/autoprox/common/src/main/java/org/commonjava/indy/autoprox/action/AutoProxAproxMigrationAction.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/autoprox/common/src/main/java/org/commonjava/indy/autoprox/AutoProxAddOn.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/autoprox/common/src/main/java/org/commonjava/indy/autoprox/util/ScriptRuleParser.java

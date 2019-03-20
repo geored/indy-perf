@@ -1,0 +1,5 @@
+org/commonjava/indy/subsys/template/fixture/MockDownloadManager.class
+org/commonjava/indy/subsys/template/fixture/TestProvider.class
+org/commonjava/indy/subsys/template/ScriptEngineTest.class
+org/commonjava/indy/subsys/template/fixture/ScriptedThing.class
+org/commonjava/indy/subsys/template/fixture/ScriptedThingOwner.class

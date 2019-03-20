@@ -1,0 +1,3 @@
+org/commonjava/indy/boot/jaxrs/JaxRsBooter.class
+org/commonjava/indy/boot/jaxrs/RestConfig.class
+META-INF/services/org.commonjava.indy.boot.BootInterface

@@ -1,0 +1,8 @@
+org/commonjava/indy/mem/data/fixture/ThreadDumper$1.class
+org/commonjava/indy/mem/data/ConcurrencyTest.class
+org/commonjava/indy/mem/data/MemoryTCKFixtureProvider.class
+org/commonjava/indy/mem/data/MemoryRepositoryManagementTest.class
+org/commonjava/indy/mem/data/ConcurrencyTest$TestDeletingEventDispatcher.class
+org/commonjava/indy/mem/data/fixture/ThreadDumper.class
+org/commonjava/indy/mem/data/ConcurrencyTest$TestUpdatingEventDispatcher.class
+org/commonjava/indy/mem/data/MemoryGroupManagementTest.class

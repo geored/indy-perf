@@ -1,0 +1,5 @@
+org/commonjava/indy/folo/dto/TrackedContentEntryDTOTest.class
+org/commonjava/indy/folo/model/TrackingKeyTest.class
+org/commonjava/indy/folo/model/TrackedContentRecordTest.class
+org/commonjava/indy/folo/dto/TrackedContentDTOTest.class
+org/commonjava/indy/folo/model/AffectedStoreRecordTest.class

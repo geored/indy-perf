@@ -3,7 +3,7 @@ FROM georgy/maven:3.5.4_8u191-jdk
 ADD . /opt/indy
 
 RUN cd /opt/indy && \
-    mvn clean -DskipTests=true package && \
+    mvn -DskipTests=true install && \
     cd /opt/indy/deployments/launcher/target && \
     tar -xvf indy-launcher-1.7.4-SNAPSHOT-complete.tar.gz
 

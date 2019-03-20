@@ -1,0 +1,16 @@
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/content/group/MavenMetadataProvider.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/content/MavenContentAdvisor.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/content/MetadataMergeListener.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/change/MetadataMergePomChangeListener.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/change/sl/SnapshotFilter.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/content/index/MavenIndexingStrategy.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/content/ArchetypeCatalogGenerator.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/content/MavenMetadataGenerator.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/content/cache/MetadataCacheProducer.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/content/cache/MavenVersionMetadataCache.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/content/StoreKey2StringMapper.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/content/MetadataInfo.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/content/MetadataStoreListener.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/content/group/ArchetypeCatalogMerger.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/inject/GalleyProvider.java
+/Users/gorgigeorgievski/_Work/indy_20.03.2019/indy-perf/indy-perf/addons/pkg-maven/common/src/main/java/org/commonjava/indy/pkg/maven/content/group/MavenMetadataMerger.java

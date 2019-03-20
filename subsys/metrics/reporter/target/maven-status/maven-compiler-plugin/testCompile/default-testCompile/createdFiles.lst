@@ -1,0 +1,7 @@
+org/commonjava/indy/metrics/zabbix/api/ZabbxiAPIHandler.class
+org/commonjava/indy/metrics/zabbix/sender/ZabbixSenderTest.class
+org/commonjava/indy/metrics/zabbix/api/ZabbixAPITest.class
+org/commonjava/indy/metrics/socket/Expectation.class
+org/commonjava/indy/metrics/socket/Capitalizer.class
+org/commonjava/indy/metrics/socket/ZabbixSocketServer.class
+org/commonjava/indy/metrics/socket/ZabbixResult.class

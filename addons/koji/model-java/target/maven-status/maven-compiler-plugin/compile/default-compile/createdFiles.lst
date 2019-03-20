@@ -1,0 +1,6 @@
+org/commonjava/indy/koji/model/KojiRepairResult$PropertyChange.class
+org/commonjava/indy/koji/model/KojiRepairResult.class
+org/commonjava/indy/koji/model/IndyKojiConstants.class
+org/commonjava/indy/koji/model/KojiMultiRepairResult.class
+org/commonjava/indy/koji/model/KojiRepairResult$RepairResult.class
+org/commonjava/indy/koji/model/KojiRepairRequest.class

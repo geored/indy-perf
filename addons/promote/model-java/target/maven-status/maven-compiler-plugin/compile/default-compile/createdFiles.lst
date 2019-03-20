@@ -1,0 +1,13 @@
+org/commonjava/indy/promote/model/ValidationRuleSet.class
+org/commonjava/indy/promote/model/CallbackTarget$CallbackMethod.class
+org/commonjava/indy/promote/model/GroupPromoteResult.class
+org/commonjava/indy/promote/model/AbstractPromoteRequest.class
+org/commonjava/indy/promote/model/ValidationRuleDTO.class
+org/commonjava/indy/promote/model/AbstractPromoteResult.class
+org/commonjava/indy/promote/model/ValidationCatalogDTO.class
+org/commonjava/indy/promote/model/PathsPromoteResult.class
+org/commonjava/indy/promote/model/GroupPromoteRequest.class
+org/commonjava/indy/promote/model/PathsPromoteRequest.class
+org/commonjava/indy/promote/model/CallbackTarget.class
+org/commonjava/indy/promote/model/ValidationResult.class
+org/commonjava/indy/promote/model/PromoteRequest.class

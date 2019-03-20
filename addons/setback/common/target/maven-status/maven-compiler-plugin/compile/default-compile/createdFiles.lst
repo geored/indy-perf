@@ -1,0 +1,6 @@
+org/commonjava/indy/setback/data/SetBackSettingsInitializer.class
+org/commonjava/indy/setback/conf/SetbackConfig.class
+org/commonjava/indy/setback/rest/SetBackController.class
+org/commonjava/indy/setback/SetBackAddOn.class
+org/commonjava/indy/setback/data/SetBackSettingsManager.class
+org/commonjava/indy/setback/data/SetBackDataException.class

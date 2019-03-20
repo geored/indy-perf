@@ -1,0 +1,5 @@
+org/commonjava/indy/data/ArtifactStoreValidatorTest.class
+org/commonjava/indy/spi/IndyAddOnIDTest.class
+org/commonjava/indy/util/AcceptInfoTest.class
+org/commonjava/indy/util/UrlInfoTest.class
+org/commonjava/indy/util/PathUtilsTest.class
