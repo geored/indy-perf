@@ -6,7 +6,7 @@ timeout(time: 20, unit: 'MINUTES') {
                     project = "nos-perf"
                   }
                 }
-                node("maven") {
+                node {
                   stage("Checkout") {
                     git url: "https://github.com/geored/indy-perf.git", branch: "master"
                   }
